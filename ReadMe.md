@@ -5,4 +5,4 @@
 jabstract.cc
 github.com/nickcarducci/jabstract.cc
 
-[alpha](github.com/nickcarducci/mastercard-backbank/src/source/eglue)
+[alpha](https://github.com/NickCarducci/mastercard-backbank/tree/main/src/source/eglue)
