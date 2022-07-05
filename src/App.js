@@ -110,7 +110,7 @@ export default class App extends React.Component {
         }}
       >
         <a
-          href="https://github.com/nickcarducci/mastercard-backbank"
+          href="https://github.com/nickcarducci/jabstract.cc"
           style={{
             float: "right",
             width: `calc(${Math.min(600, this.state.width)}px - 70%)`
@@ -130,7 +130,7 @@ export default class App extends React.Component {
                 : "https://www.dropbox.com/s/e4ce5rryq0lh1f4/jabstract.png?raw=1"
             }
             float={null}
-            title="https://github.com/nickcarducci/mastercard-backbank"
+            title="https://github.com/nickcarducci/jabstract.cc"
             scrolling={this.state.scrolling}
             fwd={this["scrollImg" + scrollnum()]}
             scrollTopAndHeight={this.state.scrollTop + window.innerHeight}
